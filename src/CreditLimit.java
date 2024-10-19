@@ -9,7 +9,6 @@ public class CreditLimit {
         int newBalance = 0;
 
         System.out.println("Enter Account Number:");
-        System.out.println("Enter Account Number:");
         int accountNumber = sc.nextInt();
 
         System.out.println("Enter Balance for this month:");
