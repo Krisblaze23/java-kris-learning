@@ -8,7 +8,7 @@ public class CreditLimit {
         int creditLimit = 1000;
         int newBalance = 0;
 
-
+        System.out.println("Enter Account Number:");
         System.out.println("Enter Account Number:");
         int accountNumber = sc.nextInt();
 
